@@ -36,16 +36,16 @@ The user is able to save the new displaying table into the database at any given
 </div>
 <span>=================================================================================</span>
 <div>
-    <h3>3. Filter operation #2</h3>
+    <h3>4. Filter operation #2</h3>
     <img src="Screenshots/screenshot4.png" width="800" />
 </div>
 <span>=================================================================================</span>
 <div>
-    <h3>3. Join operation</h3>
+    <h3>5. Join operation</h3>
     <img src="Screenshots/screenshot5.png" width="800" />
 </div>
 <span>=================================================================================</span>
 <div>
-    <h3>3. Write Query operation</h3>
+    <h3>6. Write Query operation</h3>
     <img src="Screenshots/screenshot6.png" width="800" />
 </div>
