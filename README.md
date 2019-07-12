@@ -1,12 +1,14 @@
 # DatabaseSimulator
 
-A graphical user interface based on SQL Server databases. 
+A graphical user interface based on SQL Server databases.
+<br/>
 Made by Windows Forms platform with C#.
+<br/>
 The user can make different queries and save the new table to the local database.  
 
 <br/>
 
-The simulation provides a few operations: 
+The simulator provides a few operations: 
 - Join - provide a join operation between two database tables and display the result on the screen
 - Filter - filtering a table according to user selections, and display the result on the screen
 - Write Query - write SQL Server query and display the result on the screen
@@ -29,12 +31,12 @@ The user is able to save the new displaying table into the database at any given
 </div>
 <span>=================================================================================</span>
 <div>
-    <h3>3. Filter operation</h3>
+    <h3>3. Filter operation #1</h3>
     <img src="Screenshots/screenshot3.png" width="800" />
 </div>
 <span>=================================================================================</span>
 <div>
-    <h3>3. Filter operation</h3>
+    <h3>3. Filter operation #2</h3>
     <img src="Screenshots/screenshot4.png" width="800" />
 </div>
 <span>=================================================================================</span>
