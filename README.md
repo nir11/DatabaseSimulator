@@ -29,3 +29,18 @@ The simulator provides a few oparations:
     <h3>3. Checkout Page</h3>
     <img src="Screenshots/screenshot3.png" width="800" />
 </div>
+<span>=================================================================================</span>
+<div>
+    <h3>3. Checkout Page</h3>
+    <img src="Screenshots/screenshot4.png" width="800" />
+</div>
+<span>=================================================================================</span>
+<div>
+    <h3>3. Checkout Page</h3>
+    <img src="Screenshots/screenshot5.png" width="800" />
+</div>
+<span>=================================================================================</span>
+<div>
+    <h3>3. Checkout Page</h3>
+    <img src="Screenshots/screenshot6.png" width="800" />
+</div>
