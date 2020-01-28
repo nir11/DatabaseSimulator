@@ -2,7 +2,7 @@
 
 A graphical user interface based on SQL Server databases.
 <br/>
-Made by Windows Forms platform, written with C#.
+Made by Windows Forms platform, developed in C#.
 <br/>
 The user can make different queries and save the new table to the local database.  
 
